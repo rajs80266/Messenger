@@ -1,0 +1,204 @@
+body{
+    height: 100%;
+}
+
+.bg { 
+    background-image: url("c4.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#top
+{
+	background-color:rgba(100,200,150,0.5);
+	position : fixed;
+}
+
+#logo
+{
+	width :10%;
+	height : 10%;
+	padding : 1% 1% 0% 1%;
+}
+
+nav
+{
+	float :right;
+	padding-top : 5%;
+	font-size : 300%;
+}
+
+a
+{
+	text-decoration : none;
+	padding-right:30px;
+	color : white;
+	border-bottom : 5px solid darkgreen;
+	border-right : 3px solid darkgreen;
+}
+
+a:hover
+{
+	color:black;
+}
+
+#gi img
+{
+	height:300px;
+}
+
+#top
+{
+	background-color:rgba(100,200,150,0.5);
+	position : fixed;
+}
+
+#gi img:hover
+{
+	height:310px;
+}
+
+#gi
+{
+	margin-top:20px;
+}
+
+form
+{
+	color : white;
+	font-size : 25px;
+	padding-top:1% 0% 1% 0%;
+	background-color:rgba(200,100,150,0.5);
+	width : 60%;
+}
+
+#cm
+{
+	width : 100%;
+}
+
+input
+{
+	font-size : 20px;
+}
+
+.star
+{
+	color:red;
+}
+
+#signup
+{
+	padding: 5% 0% 0% 2%;
+	margin-bottom: 10px 0px 0px 0px;
+}
+
+
+#login
+{
+	padding: 5% 0% 0% 2%;
+	margin-bottom: 10px 0px 0px 0px;
+}
+
+.ans
+{
+	font-size:30px;
+}
+
+.lab
+{
+	font-size:35px;
+}
+
+#details
+{
+	background-color:rgba(50,200,150,0.5);
+	padding:1% 1% 1% 1%;
+	margin : 0px 0px 0px 0px;
+	width : 30%;
+}
+
+#findfriends,#acceptfriends
+{
+	background-color:rgba(100,150,100,0.5);
+	padding:1% 1% 1% 1%;
+        height : 1340px;
+        width : 29%;
+        overflow: scroll;
+	margin:1% 1% 1% 1%;
+}
+
+#ff,#af,#cf,#lo,#cm,#back
+{
+	background-color:rgba(100,150,100,0);
+}
+
+#lo
+{
+        width:97%;
+}
+
+#chats
+{
+	float:left;
+	padding:1% 1% 1% 1%;
+	height : 750px;
+	width : 30%;
+	margin:1% 1% 1% 1%;
+}
+
+#wrapper{
+	background-image: url("background.png");
+    position: relative;
+    height: 1350px;
+    width: 100%;
+	overflow: scroll;
+}
+
+#messages{
+    width:963px;
+    position: absolute;
+    bottom: 0;
+}
+
+.mmessage
+{
+	background-color:yellow;
+        padding-bottom:1px;
+}
+
+.umessage
+{
+	background-color:rgb(255,160,122);
+        padding-bottom:1px;
+}
+
+#show
+{
+        padding:25px 10px 25px 10px;
+        float:right
+}
+
+#bottom,#view_all,#view_last
+{
+        font-size:50px;
+}
+
+#view_last
+{
+        display:none;
+}
+
+#name
+{
+        
+        font-size:50px;
+        margin:0px 0px 0px 0px;
+        color:blue;
+        padding-left:75px;
+}
+
+#green
+{
+	color:green;
+}
